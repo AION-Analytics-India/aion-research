@@ -9,7 +9,11 @@ Publication Date: April 2026
 Author: Lokesh Gupta
 Institution: Independent / SSRN
 Full Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6449739
+DOI: http://dx.doi.org/10.2139/ssrn.6449739
 File: Asymmetric Multipolarity.pdf
+
+Suggested Citation
+Gupta, Lokesh, Asymmetric Multipolarity: Financial, Industrial, Resource, and Strategic Power in the Post-Unipolar Global Order (March 21, 2026). Available at SSRN: https://ssrn.com/abstract=6449739 or http://dx.doi.org/10.2139/ssrn.6449739
 
 Abstract
 For three decades following the Cold War, international relations were characterized by a unipolar structure centered on Western financial and military hegemony. Economic and geopolitical data indicates a divergence between financial centrality and real-economy capacity. This paper argues that the global system is not witnessing a simple replacement of hegemony, but a structural rebalancing across four distinct layers: financial (USD-dominant), industrial (Global South-leaning), resource (distributed), and strategic (military/logistics). Crucially, this multipolarity is asymmetric both within and across blocs, meaning leverage, dependency, and vulnerability are unevenly distributed across functions and actors. By analyzing data on purchasing power parity, debt structures, critical mineral supply chains, digital infrastructure, and institutional competition, this study proposes a model of Asymmetric Multipolarity. The findings suggest a transition toward a fragmented system of competitive interdependence where financial power no longer guarantees industrial or resource control.
