@@ -35,4 +35,4 @@ Research governed by the Enki Protocol:
 2. Tabula Rasa: Continuous re-validation of regimes.
 3. Anonymity: The mission is eternal; the individual is secondary to the output.
 
-Copyright 2026 Aion Labs.
+Copyright 2026 Aion Analytics.
