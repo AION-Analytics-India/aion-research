@@ -1,38 +1,62 @@
-# Aion Research Hub
+# AION Research
 
-Aion Research Hub acts as the institutional ledger for sovereign intelligence and structural analysis. This repository hosts peer-reviewed research, economic conjectures, and mathematical frameworks designed to map the constants of financial and human systems without linear bias.
+Working papers and research notes by **Lokesh Gupta**, founder of AION Analytics (India).
+ORCID: [0009-0000-7501-9230](https://orcid.org/0009-0000-7501-9230)
 
-### [Asymmetric Multipolarity: Financial, Industrial, Resource, and Strategic Power in the Post-Unipolar Global Order]
-Publication Date: April 2026
-Author: Lokesh Gupta
-Institution: Independent / SSRN
-Full Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6449739
-DOI: http://dx.doi.org/10.2139/ssrn.6449739
-File: Asymmetric Multipolarity.pdf
+Research first, identify the structural gap, then build infrastructure against it.
+This repository is a durable archive of that written record. Canonical, always-current
+versions of the notes live at <https://dashboard.aiondashboard.site/research>.
 
-### [Bridging the Gap: Blending Human Insights and Digital Tools to Master Emerging Markets]
-Publication Date: April 2025
-Author: Lokesh Gupta
-Institution: Independent / SSRN
-Full Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140987
+## Working papers
 
-Abstract
-This foundational white paper serves as a roadmap for moving beyond raw data to adopt a hybrid approach: blending on-the-ground human relationships with modern analytics. Drawing from 18 years of guiding companies across emerging markets, it explores how to listen to markets rather than just analyzing them, turning failures into pivots and building genuine bridges rather than just strategies.
+| Year | Title | DOI / ID | Local |
+|---|---|---|---|
+| 2025 | [Beyond the Mirror: Systemic Vulnerabilities in LLM Safeguards Exposed Through Intentional Conditioning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5232429) | `SSRN 5232429` | [PDF](papers/2025-beyond-the-mirror.pdf) |
+| 2026 | [Asymmetric Multipolarity: Financial, Industrial, Resource, and Strategic Power in the Post-Unipolar Global Order](https://doi.org/10.2139/ssrn.6449739) | `10.2139/ssrn.6449739` | [PDF](papers/2026-asymmetric-multipolarity.pdf) |
+| 2026 | [The Great Indian Illusion: Unpacking the Gap Between Growth Statistics and Citizen Well-Being](https://doi.org/10.2139/ssrn.6973958) | `10.2139/ssrn.6973958` | [PDF](papers/2026-great-indian-illusion.pdf) |
+| 2026 | [Signal Provenance in Retail Algorithmic Trading: An Architectural Gap in SEBI's 2026 Framework and Its General Form](https://doi.org/10.2139/ssrn.7118421) | `10.2139/ssrn.7118421` | [PDF](papers/2026-signal-provenance.pdf) |
+| 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235801) | `SSRN 7235801 (under review)` | [PDF](papers/2026-the-uncodified-margin.pdf) |
 
-Suggested Citation
-Gupta, Lokesh, Asymmetric Multipolarity: Financial, Industrial, Resource, and Strategic Power in the Post-Unipolar Global Order (March 21, 2026). Available at SSRN: https://ssrn.com/abstract=6449739 or http://dx.doi.org/10.2139/ssrn.6449739
+BibTeX for all of the above: [`papers/citations.bib`](papers/citations.bib)
 
-Abstract
-For three decades following the Cold War, international relations were characterized by a unipolar structure centered on Western financial and military hegemony. Economic and geopolitical data indicates a divergence between financial centrality and real-economy capacity. This paper argues that the global system is not witnessing a simple replacement of hegemony, but a structural rebalancing across four distinct layers: financial (USD-dominant), industrial (Global South-leaning), resource (distributed), and strategic (military/logistics). Crucially, this multipolarity is asymmetric both within and across blocs, meaning leverage, dependency, and vulnerability are unevenly distributed across functions and actors. By analyzing data on purchasing power parity, debt structures, critical mineral supply chains, digital infrastructure, and institutional competition, this study proposes a model of Asymmetric Multipolarity. The findings suggest a transition toward a fragmented system of competitive interdependence where financial power no longer guarantees industrial or resource control.
+## Research notes
 
-Keywords
-Asymmetric Multipolarity, BRICS, G7, Geoeconomics, Supply Chain Resilience, De-dollarization, Digital Public Infrastructure, Sovereign Digital Platforms, AI-enabled Statecraft, Weaponized Interdependence.
+Shorter pieces on market structure, quantitative method, and macro. Each links back to
+its canonical version on the dashboard.
 
-Sovereign Standards
+| Published | Note |
+|---|---|
+| May 21, 2026 | [Crash Cycles: How Markets Break Before the Headline Trigger](notes/crash-cycles.md) |
+| May 29, 2026 | [Euler's Equation and Why Financial Markets Are Built on It](notes/eulers-equation.md) |
+| April 8, 2026 | [Gold-Silver Ratio: A Dated Hypothesis (April 8, 2026)](notes/gold-silver-ratio-hypothesis.md) |
+| May 17, 2026 | [Indian Market Intelligence: Macro Event to Sector Impact](notes/imi-macro-sector-api.md) |
+| June 10, 2026 | [OpenAlgo symtoken: 31 Brokers and Multi-Broker Execution](notes/openalgo-symtoken.md) |
+| June 1, 2026 | [Options Greeks Through the Taylor Series: Why Your Option Did Not Move as Expected](notes/options-greeks-taylor-series.md) |
+| May 18, 2026 | [SEBI Governance Blind Spot: Static IP and Retail Algo Execution](notes/sebi-static-ip.md) |
+|  | [Systemic Risk: Graph Theory and Market Crash Mechanics](notes/systemic-risk-graph-theory.md) |
+| May 10, 2026 | [The 15-Minute Opening Window Rule: Market Structure Before Entry](notes/opening-window-rule.md) |
+| May 26, 2026 | [The Bear Trap: How Panic Shorts Get Squeezed](notes/bear-trap.md) |
+| May 26, 2026 | [The Bull Trap: How Breakout Buyers Get Harvested](notes/bull-trap.md) |
+|  | [The Dollar-Metals Dynamic: A Factual Framework](notes/dollar-metals-dynamic.md) |
+| June 22, 2026 | [The FII-DII Headline Is Lagging: What Actually Moved the Market on April 8](notes/fii-dii-headline-myth.md) |
+| May 17, 2026 | [The Great Indian Illusion, Part 2: When the Framework Made a Call](notes/great-indian-illusion-gold.md) |
+| April 9, 2026 | [The Great Indian Illusion: Five Structural Cracks](notes/great-indian-illusion.md) |
+| March 18, 2026 | [The High VIX Trap: Why Market Fear Becomes a Siren Song](notes/high-vix-trap.md) |
+| February 12, 2026 | [The Trading Car: A Minimalist Dashboard for Market Decisions](notes/trading-car.md) |
+| May 5, 2026 | [Veritas: From Bachelier to Black-Scholes, and Why It Matters for Opening Bands](notes/veritas-bachelier-bsm.md) |
+| March 5, 2026 | [Who Actually Lost in a Crash? Breaking the “₹16 Lakh Crore Wiped Out” Myth](notes/who-lost-in-crash.md) |
 
-Research governed by the Enki Protocol:
-1. Strict Determinism: Zero heuristics. Evidence-first.
-2. Tabula Rasa: Continuous re-validation of regimes.
-3. Anonymity: The mission is eternal; the individual is secondary to the output.
+## About
 
-Copyright 2026 Aion Analytics.
+AION Analytics (India) builds market-intelligence and execution-integrity infrastructure
+for Indian financial markets, under a mandate that its outputs inform and never instruct.
+
+Not affiliated with Aion Analytics LLC (United States) or AION Labs (Israel).
+
+AION Analytics is not a signal provider and does not issue buy or sell recommendations.
+Nothing in this repository is investment advice.
+
+## Licence
+
+Papers are distributed under the terms shown on their SSRN records. Research notes are
+&copy; AION Analytics (India). Please cite rather than reproduce.

@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 580" role="img" aria-label="Market crash wealth transfer infographic — the house always collects">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#040b15"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#991b1b"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#166534"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4A5568"/>
+    </marker>
+    <marker id="arrW" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#E8ECF3"/>
+    </marker>
+    <marker id="arrC" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00D4FF"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="580" fill="url(#bg)" rx="14"/>
+  <rect width="900" height="580" fill="none" stroke="rgba(0,212,255,0.12)" stroke-width="1.5" rx="14"/>
+
+  <!-- ── SECTION 1: THE MYTH ─────────────────────── -->
+  <rect x="0" y="0" width="900" height="88" fill="rgba(239,68,68,0.07)" rx="14"/>
+  <rect x="0" y="70" width="900" height="18" fill="rgba(239,68,68,0.07)"/>
+
+  <text x="450" y="32" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="4">THE HEADLINE</text>
+  <!-- Strikethrough treatment for the myth -->
+  <text x="245" y="68" fill="#EF4444" font-family="system-ui,-apple-system,sans-serif" font-size="30" font-weight="900" text-anchor="middle" opacity="0.9">&#8377;16 LAKH CRORE</text>
+  <text x="560" y="68" fill="#EF4444" font-family="system-ui,-apple-system,sans-serif" font-size="30" font-weight="900" text-anchor="middle" opacity="0.9" text-decoration="line-through">&ldquo;WIPED OUT&rdquo;</text>
+  <!-- Strikethrough line drawn manually -->
+  <line x1="422" y1="54" x2="700" y2="54" stroke="#EF4444" stroke-width="3" opacity="0.7"/>
+  <text x="795" y="68" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="13" text-anchor="middle" font-style="italic">&#x2190; myth</text>
+
+  <!-- ── SECTION 2: REALITY HEADER ──────────────── -->
+  <text x="450" y="105" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="10.5" font-weight="700" text-anchor="middle" letter-spacing="3">THE REALITY — WHERE THE MONEY ACTUALLY WENT</text>
+
+  <!-- ── SECTION 3: MONEY FLOW ──────────────────── -->
+  <!-- Panic Seller -->
+  <rect x="28" y="120" width="168" height="108" rx="10" fill="url(#redGrad)" stroke="#EF4444" stroke-width="1.5"/>
+  <text x="112" y="150" fill="#FCA5A5" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="2">PANIC SELLER</text>
+  <text x="112" y="168" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="19" font-weight="900" text-anchor="middle">&#8377;22L</text>
+  <text x="112" y="186" fill="#FCA5A5" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Entry: &#8377;23,000</text>
+  <text x="112" y="200" fill="#FCA5A5" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Exit: &#8377;22,000</text>
+  <text x="112" y="218" fill="#fbbf24" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="700" text-anchor="middle">Retail · Leveraged · Panic</text>
+
+  <!-- Arrow: Seller → Buyer -->
+  <line x1="198" y1="174" x2="698" y2="174" stroke="#4A5568" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="365" y="160" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="700" text-anchor="middle">100 lots change hands</text>
+  <text x="365" y="176" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">via NSE order book · price: &#8377;22,000</text>
+
+  <!-- Contrarian Buyer -->
+  <rect x="704" y="120" width="168" height="108" rx="10" fill="url(#greenGrad)" stroke="#22C55E" stroke-width="1.5"/>
+  <text x="788" y="150" fill="#86efac" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="2">CONTRARIAN BUYER</text>
+  <text x="788" y="168" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="19" font-weight="900" text-anchor="middle">&#8377;22L</text>
+  <text x="788" y="186" fill="#86efac" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">100 lots at &#8377;22,000</text>
+  <text x="788" y="200" fill="#86efac" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Thesis: market oversold</text>
+  <text x="788" y="218" fill="#4ade80" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="700" text-anchor="middle">Institutional · Patient</text>
+
+  <!-- Down arrow to house -->
+  <line x1="450" y1="185" x2="450" y2="253" stroke="#00D4FF" stroke-width="2" stroke-dasharray="5,3" marker-end="url(#arrC)"/>
+  <text x="450" y="246" fill="#00D4FF" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="1">BEFORE THE TRADE CLEARS — THE HOUSE COLLECTS</text>
+
+  <!-- ── SECTION 4: THE HOUSE — 4 toll booths ───── -->
+  <!-- Broker -->
+  <rect x="28" y="265" width="192" height="160" rx="10" fill="rgba(245,158,11,0.08)" stroke="#F59E0B" stroke-width="1.5"/>
+  <rect x="28" y="265" width="192" height="34" rx="10" fill="rgba(245,158,11,0.15)"/>
+  <rect x="28" y="285" width="192" height="14" fill="rgba(245,158,11,0.15)"/>
+  <text x="124" y="287" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="2">BROKER</text>
+  <text x="124" y="316" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Brokerage: buyer + seller</text>
+  <text x="124" y="333" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">DP charges (demat hold)</text>
+  <text x="124" y="350" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Transaction fees (pass-through)</text>
+  <line x1="44" y1="365" x2="204" y2="365" stroke="rgba(245,158,11,0.2)" stroke-width="1"/>
+  <text x="124" y="382" fill="#fbbf24" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">Market UP ✓  DOWN ✓  SIDEWAYS ✓</text>
+  <text x="124" y="398" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">Panic = more trades = more fees</text>
+  <text x="124" y="413" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">Revenue peaks during crashes</text>
+
+  <!-- Exchange -->
+  <rect x="234" y="265" width="192" height="160" rx="10" fill="rgba(0,212,255,0.05)" stroke="#00D4FF" stroke-width="1.5"/>
+  <rect x="234" y="265" width="192" height="34" rx="10" fill="rgba(0,212,255,0.12)"/>
+  <rect x="234" y="285" width="192" height="14" fill="rgba(0,212,255,0.12)"/>
+  <text x="330" y="287" fill="#00D4FF" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="2">NSE / BSE</text>
+  <text x="330" y="316" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Transaction charges / lakh</text>
+  <text x="330" y="333" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">SEBI turnover fees</text>
+  <text x="330" y="350" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Charged on BOTH sides</text>
+  <line x1="250" y1="365" x2="410" y2="365" stroke="rgba(0,212,255,0.15)" stroke-width="1"/>
+  <text x="330" y="382" fill="#67e8f9" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">Volume spike = revenue spike</text>
+  <text x="330" y="398" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">Crash day = record turnover</text>
+  <text x="330" y="413" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">Even panic sellers pay</text>
+
+  <!-- Government -->
+  <rect x="440" y="265" width="192" height="160" rx="10" fill="rgba(168,85,247,0.06)" stroke="#A855F7" stroke-width="1.5"/>
+  <rect x="440" y="265" width="192" height="34" rx="10" fill="rgba(168,85,247,0.15)"/>
+  <rect x="440" y="285" width="192" height="14" fill="rgba(168,85,247,0.15)"/>
+  <text x="536" y="287" fill="#C084FC" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="2">GOVERNMENT</text>
+  <text x="536" y="316" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">STT: on every sell order</text>
+  <text x="536" y="333" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">GST on brokerage charges</text>
+  <text x="536" y="350" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Capital gains on recovery</text>
+  <line x1="456" y1="365" x2="616" y2="365" stroke="rgba(168,85,247,0.2)" stroke-width="1"/>
+  <text x="536" y="382" fill="#d8b4fe" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">Silent partner in every trade</text>
+  <text x="536" y="398" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">STT on fall + tax on recovery</text>
+  <text x="536" y="413" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">No outcome where it earns zero</text>
+
+  <!-- Market Makers -->
+  <rect x="646" y="265" width="226" height="160" rx="10" fill="rgba(34,197,94,0.05)" stroke="#22C55E" stroke-width="1.5"/>
+  <rect x="646" y="265" width="226" height="34" rx="10" fill="rgba(34,197,94,0.12)"/>
+  <rect x="646" y="285" width="226" height="14" fill="rgba(34,197,94,0.12)"/>
+  <text x="759" y="287" fill="#4ade80" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="2">MARKET MAKERS / HFT</text>
+  <text x="759" y="316" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Earn the bid-ask spread</text>
+  <text x="759" y="333" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Spreads widen in volatility</text>
+  <text x="759" y="350" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="10" text-anchor="middle">Algo scalps every micro-move</text>
+  <line x1="662" y1="365" x2="856" y2="365" stroke="rgba(34,197,94,0.2)" stroke-width="1"/>
+  <text x="759" y="382" fill="#86efac" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">Need movement. Not direction.</text>
+  <text x="759" y="398" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">Crash = maximum movement</text>
+  <text x="759" y="413" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="9" text-anchor="middle">= maximum spread earnings</text>
+
+  <!-- ── SECTION 5: THE TRUTH ────────────────────── -->
+  <rect x="28" y="440" width="844" height="120" rx="10" fill="rgba(0,0,0,0.4)" stroke="rgba(0,212,255,0.2)" stroke-width="1"/>
+  
+  <text x="450" y="469" fill="#E8ECF3" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="900" text-anchor="middle" letter-spacing="-0.5">NOTHING WAS WIPED.</text>
+  <text x="450" y="493" fill="#00D4FF" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="900" text-anchor="middle" letter-spacing="-0.5">IT JUST CHANGED POCKETS.</text>
+  <text x="450" y="517" fill="#8898B3" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="700" text-anchor="middle">AND THE HOUSE TOOK ITS CUT &mdash; ON EVERY TRANSACTION, IN BOTH DIRECTIONS.</text>
+  <line x1="120" y1="530" x2="780" y2="530" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <text x="450" y="547" fill="#4A5568" font-family="system-ui,-apple-system,sans-serif" font-size="9.5" text-anchor="middle">Numbers illustrative. AION Analytics (India) &mdash; Market intelligence that informs, never instructs. Not financial advice.</text>
+</svg>
