@@ -1,7 +1,7 @@
 # AION Research
 
 Working papers and research notes by **Lokesh Gupta**, founder of AION Analytics (India).
-ORCID: [0009-0000-7501-9230](https://orcid.org/0009-0000-7501-9230)
+ORCID: [0009-0000-7501-9230](https://orcid.org/0009-0000-7501-9230) &middot; [Google Scholar](https://scholar.google.com/citations?user=QuCFm9YAAAAJ)
 
 Research first, identify the structural gap, then build infrastructure against it.
 This repository is a durable archive of that written record. Canonical, always-current
