@@ -16,6 +16,7 @@ versions of the notes live at <https://dashboard.aiondashboard.site/research>.
 | 2026 | [The Great Indian Illusion: Unpacking the Gap Between Growth Statistics and Citizen Well-Being](https://doi.org/10.2139/ssrn.6973958) | `10.2139/ssrn.6973958` | [PDF](papers/2026-great-indian-illusion.pdf) |
 | 2026 | [Signal Provenance in Retail Algorithmic Trading: An Architectural Gap in SEBI's 2026 Framework and Its General Form](https://doi.org/10.2139/ssrn.7118421) | `10.2139/ssrn.7118421` | [PDF](papers/2026-signal-provenance.pdf) |
 | 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235801) | `SSRN 7235801 (under review)` | [PDF](papers/2026-the-uncodified-margin.pdf) |
+| 2026 | [The Signature Trap: Structural Gaps in Spyware Detection and the Limits of Indicator-Based Defense](https://doi.org/10.2139/ssrn.7503278) | `10.2139/ssrn.7503278` | [PDF](papers/2026-the-signature-trap.pdf) |
 
 BibTeX for all of the above: [`papers/citations.bib`](papers/citations.bib)
 
