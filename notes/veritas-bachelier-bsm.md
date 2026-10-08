@@ -2,7 +2,7 @@
 
 Published May 5, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/veritas-bachelier-bsm>
+Canonical version: <https://aionanalytics.in/research/notes/veritas-bachelier-bsm>
 
 ---
 AION Veritas publishes daily opening probability bands. This note explains the century-old mathematical lineage behind those bands — from Louis Bachelier's 1900 diffusion insight through Black-Scholes-Merton's option pricing framework — and why that lineage is the right tool for pre-market range estimation.

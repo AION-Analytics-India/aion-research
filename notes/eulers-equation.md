@@ -2,7 +2,7 @@
 
 Published May 29, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/eulers-equation>
+Canonical version: <https://aionanalytics.in/research/notes/eulers-equation>
 
 ---
 e^(iπ) + 1 = 0. Five constants, one equation, and the mathematical backbone of modern finance. This is not a formula to memorise — it is a map to how growth, decay, cycles, and probability are all connected, and why that connection is fundamental to every pricing model, discounting function, and risk measure in financial markets.

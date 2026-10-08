@@ -2,7 +2,7 @@
 
 Published April 8, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/gold-silver-ratio-hypothesis>
+Canonical version: <https://aionanalytics.in/research/notes/gold-silver-ratio-hypothesis>
 
 ---
 A dated hypothesis: at a gold-silver ratio of ~65, published April 8, 2026, with price data at the time. AION treats hypothesis formation as infrastructure — form it, date it, publish it, track it. This is what that looks like in practice.
@@ -10,7 +10,7 @@ A dated hypothesis: at a gold-silver ratio of ~65, published April 8, 2026, with
 <div class="arc-note">
 
 **Macro arc:** This note is part of a connected set examining the structural cracks beneath India's growth narrative and the metals/sovereignty implications that follow.  
-Arc: [Great Indian Illusion](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://dashboard.aiondashboard.site/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://dashboard.aiondashboard.site/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://dashboard.aiondashboard.site/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion-gold)
+Arc: [Great Indian Illusion](https://aionanalytics.in/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://aionanalytics.in/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://aionanalytics.in/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://aionanalytics.in/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://aionanalytics.in/research/notes/great-indian-illusion-gold)
 
 </div>
 

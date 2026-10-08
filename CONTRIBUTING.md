@@ -30,5 +30,5 @@ this repository.
 
 ## Links
 
-- Website: https://dashboard.aiondashboard.site
+- Website: https://aionanalytics.in
 - Organisation: https://github.com/AION-Analytics-India

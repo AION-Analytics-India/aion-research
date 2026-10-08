@@ -2,7 +2,7 @@
 
 Published May 10, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/opening-window-rule>
+Canonical version: <https://aionanalytics.in/research/notes/opening-window-rule>
 
 ---
 The first 15 minutes of an NSE trading session are the noisiest. Order imbalances from overnight and pre-market carry settle. Institutional positioning adjusts. Retail participants react to opening gaps. Entering a trade before the opening range is defined is gambling on resolution, not reading structure. Wait for the opening high, low, and VWAP to establish — then act on the evidence.

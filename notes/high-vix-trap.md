@@ -2,7 +2,7 @@
 
 Published March 18, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/high-vix-trap>
+Canonical version: <https://aionanalytics.in/research/notes/high-vix-trap>
 
 ---
 A rising India VIX does not signal direction. It signals expected swing magnitude. This distinction determines whether a retail F&O trader is reading a warning or walking into a trap.

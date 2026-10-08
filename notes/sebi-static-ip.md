@@ -2,7 +2,7 @@
 
 Published May 18, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/sebi-static-ip>
+Canonical version: <https://aionanalytics.in/research/notes/sebi-static-ip>
 
 ---
 SEBI rules assume algorithmic execution happens from a broker-controlled, whitelisted static IP. That architecture was designed for institutions. It has become an accidental barrier for retail participants who want to run their own execution agents — and a governance gap that is worth acknowledging publicly.
@@ -29,7 +29,7 @@ The locally deployed agent sits on the retail participant's own machine, uses th
 
 The right regulatory response is not to prohibit locally deployed agents — it is to develop governance standards that extend the intent of the current rules to the new architectural reality. This means broker-side audit trails, execution timestamps, rate limits, and anomaly detection that work for dynamic IP environments, not just static data centre addresses.
 
-In the meantime, the [open-source infrastructure](https://dashboard.aiondashboard.site/open-source/indian-market-calendar) is live, because retail participants should not have to wait for regulatory clarity on tooling that is genuinely in their interest to have.
+In the meantime, the [open-source infrastructure](https://aionanalytics.in/open-source/indian-market-calendar) is live, because retail participants should not have to wait for regulatory clarity on tooling that is genuinely in their interest to have.
 
 ## Why this belongs in a research library
 

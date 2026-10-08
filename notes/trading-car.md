@@ -2,7 +2,7 @@
 
 Published February 12, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/trading-car>
+Canonical version: <https://aionanalytics.in/research/notes/trading-car>
 
 ---
 Most traders lose because their chart looks like a spaceship control room. Strip it down to four gauges: price/trend, volume, momentum, and key levels. Conflicting gauges usually mean no trade is the right trade.

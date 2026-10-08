@@ -2,7 +2,7 @@
 
 Published May 21, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/crash-cycles>
+Canonical version: <https://aionanalytics.in/research/notes/crash-cycles>
 
 ---
 Market crashes are not caused by the headline event that appears to trigger them. The event is the spark. The fuel — excessive leverage, liquidity stress, crowded positioning, rising debt, and overconfidence — accumulates slowly over months or years. Understanding the cycle means reading the fuel, not just watching for sparks.

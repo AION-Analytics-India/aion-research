@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 450" role="img" aria-labelledby="mp-title mp-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="mp-title">Max Pain: where it sits, what holds price near it, and when it breaks</title>
+  <desc id="mp-desc">Three panels. Left: open interest by strike with the Max Pain strike marked, where the aggregate loss of option buyers is highest. Middle: flows that hold price near Max Pain, selling when price rises above it and buying when it falls below. Right: a price path that stays pinned near Max Pain and then breaks away after an external shock.</desc>
+  <defs>
+    <marker id="mp-arr-red" markerWidth="9" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#b42318"/>
+    </marker>
+    <marker id="mp-arr-green" markerWidth="9" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L9,4 L0,8 Z" fill="#067647"/>
+    </marker>
+  </defs>
+
+  <rect width="960" height="450" fill="#ffffff"/>
+
+  <!-- Panel frames -->
+  <g fill="#f7f9fc" stroke="#d5dbe5" stroke-width="1">
+    <rect x="12" y="12" width="304" height="396" rx="8"/>
+    <rect x="328" y="12" width="304" height="396" rx="8"/>
+    <rect x="644" y="12" width="304" height="396" rx="8"/>
+  </g>
+
+  <!-- Panel titles -->
+  <g font-size="15" font-weight="700" fill="#101828">
+    <text x="28" y="40">1. Where Max Pain sits</text>
+    <text x="344" y="40">2. Flows that hold the range</text>
+    <text x="660" y="40">3. Two regimes</text>
+  </g>
+  <g font-size="12" fill="#475467">
+    <text x="28" y="58">Open interest by strike</text>
+    <text x="344" y="58">Price pushed back from both sides</text>
+    <text x="660" y="58">Pinned, then broken by a shock</text>
+  </g>
+
+  <!-- ============ PANEL 1: OI by strike ============ -->
+  <line x1="36" y1="340" x2="296" y2="340" stroke="#667085" stroke-width="1.2"/>
+  <!-- Put-heavy strikes (below) -->
+  <g fill="#2e90fa">
+    <rect x="44" y="306" width="20" height="34"/>
+    <rect x="72" y="278" width="20" height="62"/>
+    <rect x="100" y="238" width="20" height="102"/>
+    <rect x="128" y="196" width="20" height="144"/>
+  </g>
+  <!-- Centre strike: puts and calls stacked -->
+  <rect x="156" y="250" width="20" height="90" fill="#2e90fa"/>
+  <rect x="156" y="162" width="20" height="88" fill="#f79009"/>
+  <!-- Call-heavy strikes (above) -->
+  <g fill="#f79009">
+    <rect x="184" y="196" width="20" height="144"/>
+    <rect x="212" y="238" width="20" height="102"/>
+    <rect x="240" y="278" width="20" height="62"/>
+    <rect x="268" y="306" width="20" height="34"/>
+  </g>
+  <!-- Max Pain marker -->
+  <line x1="166" y1="100" x2="166" y2="352" stroke="#101828" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="166" y="92" font-size="13" font-weight="700" fill="#101828" text-anchor="middle">Max Pain strike</text>
+  <text x="166" y="122" font-size="12" fill="#101828" text-anchor="middle" stroke="#f7f9fc" stroke-width="4" paint-order="stroke">Aggregate buyer loss</text>
+  <text x="166" y="138" font-size="12" fill="#101828" text-anchor="middle" stroke="#f7f9fc" stroke-width="4" paint-order="stroke">is highest here</text>
+  <text x="40" y="358" font-size="11" fill="#475467">Lower strikes</text>
+  <text x="292" y="358" font-size="11" fill="#475467" text-anchor="end">Higher strikes</text>
+  <!-- Legend -->
+  <rect x="60" y="376" width="11" height="11" fill="#2e90fa"/>
+  <text x="77" y="386" font-size="12" fill="#344054">Put open interest</text>
+  <rect x="186" y="376" width="11" height="11" fill="#f79009"/>
+  <text x="203" y="386" font-size="12" fill="#344054">Call open interest</text>
+
+  <!-- ============ PANEL 2: holding flows ============ -->
+  <!-- Zones -->
+  <rect x="344" y="84" width="272" height="126" fill="#fef3f2"/>
+  <rect x="344" y="210" width="272" height="126" fill="#ecfdf3"/>
+  <line x1="344" y1="210" x2="616" y2="210" stroke="#101828" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="350" y="228" font-size="12" font-weight="700" fill="#101828">Max Pain</text>
+  <!-- Price path oscillating around the level -->
+  <path d="M352,210 C372,150 392,130 412,150 C432,172 440,250 464,272 C486,290 500,250 514,206 C528,166 544,160 560,178 C576,196 588,214 608,210" fill="none" stroke="#344054" stroke-width="2"/>
+  <!-- Sell arrows (above) -->
+  <line x1="404" y1="98" x2="404" y2="132" stroke="#b42318" stroke-width="2.2" marker-end="url(#mp-arr-red)"/>
+  <line x1="552" y1="118" x2="552" y2="152" stroke="#b42318" stroke-width="2.2" marker-end="url(#mp-arr-red)"/>
+  <text x="418" y="106" font-size="12.5" font-weight="700" fill="#b42318">Futures sold as</text>
+  <text x="418" y="122" font-size="12.5" font-weight="700" fill="#b42318">price rises</text>
+  <!-- Buy arrows (below) -->
+  <line x1="470" y1="324" x2="470" y2="290" stroke="#067647" stroke-width="2.2" marker-end="url(#mp-arr-green)"/>
+  <text x="484" y="308" font-size="12.5" font-weight="700" fill="#067647">Futures bought as</text>
+  <text x="484" y="324" font-size="12.5" font-weight="700" fill="#067647">price falls</text>
+  <text x="352" y="358" font-size="11.5" fill="#475467">Repeated across many strikes, these flows</text>
+  <text x="352" y="374" font-size="11.5" fill="#475467">pull price back toward the level. This is a</text>
+  <text x="352" y="390" font-size="11.5" fill="#475467">tendency, not a guarantee.</text>
+
+  <!-- ============ PANEL 3: regimes ============ -->
+  <rect x="660" y="84" width="150" height="252" fill="#eff8ff"/>
+  <rect x="810" y="84" width="122" height="252" fill="#fff6ed"/>
+  <text x="735" y="104" font-size="13" font-weight="700" fill="#175cd3" text-anchor="middle">Pinned</text>
+  <text x="871" y="104" font-size="13" font-weight="700" fill="#b93815" text-anchor="middle">Broken</text>
+  <!-- Max Pain level -->
+  <line x1="660" y1="250" x2="932" y2="250" stroke="#101828" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="666" y="268" font-size="12" font-weight="700" fill="#101828">Max Pain</text>
+  <!-- Shock marker -->
+  <line x1="810" y1="84" x2="810" y2="336" stroke="#b93815" stroke-width="1.4"/>
+  <text x="804" y="306" font-size="12" font-weight="700" fill="#b93815" text-anchor="end">External shock</text>
+  <text x="804" y="322" font-size="11" fill="#b93815" text-anchor="end">crude, geopolitics, policy</text>
+  <!-- Price path -->
+  <path d="M664,250 L676,242 L688,256 L700,244 L712,254 L724,240 L736,252 L748,246 L760,258 L772,244 L784,252 L796,246 L810,250 L820,226 L830,232 L842,196 L852,204 L866,162 L876,170 L892,132 L902,138 L924,116" fill="none" stroke="#344054" stroke-width="2" stroke-linejoin="round"/>
+  <text x="660" y="358" font-size="11.5" fill="#475467">Before the shock, hedging damps moves.</text>
+  <text x="660" y="374" font-size="11.5" fill="#475467">After it, option writers have to chase</text>
+  <text x="660" y="390" font-size="11.5" fill="#475467">price, and their hedging adds to the move.</text>
+
+  <text x="480" y="432" font-size="11.5" fill="#667085" text-anchor="middle">Schematic for explanation only. Not market data. AION Analytics (India).</text>
+</svg>

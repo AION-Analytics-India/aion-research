@@ -2,7 +2,7 @@
 
 Published May 17, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/great-indian-illusion-gold>
+Canonical version: <https://aionanalytics.in/research/notes/great-indian-illusion-gold>
 
 ---
 Forty days after publishing the Great Indian Illusion framework, every structural crack we identified had worsened — and the Prime Minister publicly asked citizens not to buy gold. This note shows what the framework called, what happened, and why the gold signal is the canary in the coal mine for the rupee and domestic savings.
@@ -10,7 +10,7 @@ Forty days after publishing the Great Indian Illusion framework, every structura
 <div class="arc-note">
 
 **Macro arc:** This note is part of a connected set examining the structural cracks beneath India's growth narrative and the metals/sovereignty implications that follow.  
-Arc: [Great Indian Illusion](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://dashboard.aiondashboard.site/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://dashboard.aiondashboard.site/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://dashboard.aiondashboard.site/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion-gold)
+Arc: [Great Indian Illusion](https://aionanalytics.in/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://aionanalytics.in/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://aionanalytics.in/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://aionanalytics.in/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://aionanalytics.in/research/notes/great-indian-illusion-gold)
 
 </div>
 

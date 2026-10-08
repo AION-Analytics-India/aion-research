@@ -2,7 +2,7 @@
 
 Published June 22, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/fii-dii-headline-myth>
+Canonical version: <https://aionanalytics.in/research/notes/fii-dii-headline-myth>
 
 ---
 On April 8, 2026, FIIs net-sold ₹8,692 crore in cash equities. Nifty still closed up ~3.85% (+890 points). The cash headline wasn't wrong — it was incomplete. This note explains the three layers the daily FII-DII number structurally cannot see.

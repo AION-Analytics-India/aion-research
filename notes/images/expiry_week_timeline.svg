@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="ew-title ew-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="ew-title">Expiry week timeline: Monday, Tuesday morning, Tuesday afternoon</title>
+  <desc id="ew-desc">A timeline of a Monday to Tuesday expiry week in three stages. Monday: the premium of an out-of-the-money option falls along a curve that steepens as theta decay accelerates. Tuesday morning: a tug of war between desk pinning, which pulls spot toward Max Pain, and the trader's directional bet. Tuesday afternoon: settlement, when the weekly contracts are cash settled and positions for the next week are opened. A note reads: the window is short, theta is the clock.</desc>
+  <defs>
+    <marker id="ew-b" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="16" refX="13" refY="8" orient="auto"><path d="M0,0 L18,8 L0,16 Z" fill="#175cd3"/></marker>
+    <marker id="ew-o" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="16" refX="13" refY="8" orient="auto"><path d="M0,0 L18,8 L0,16 Z" fill="#b93815"/></marker>
+  </defs>
+  <rect width="960" height="500" fill="#ffffff"/>
+  <!-- timeline -->
+  <line x1="60" y1="34" x2="900" y2="34" stroke="#98a2b3" stroke-width="3"/>
+  <g fill="#101828"><circle cx="164" cy="34" r="7"/><circle cx="480" cy="34" r="7"/><circle cx="796" cy="34" r="7"/></g>
+  <g fill="#f7f9fc" stroke="#d5dbe5"><rect x="12" y="56" width="304" height="340" rx="8"/><rect x="328" y="56" width="304" height="340" rx="8"/><rect x="644" y="56" width="304" height="340" rx="8"/></g>
+  <g font-size="15" font-weight="700" fill="#101828"><text x="28" y="84">Monday</text><text x="344" y="84">Tuesday morning</text><text x="660" y="84">Tuesday afternoon</text></g>
+  <g font-size="12" fill="#475467"><text x="28" y="102">Theta decay steepens</text><text x="344" y="102">The final contest near Max Pain</text><text x="660" y="102">Expiry and settlement</text></g>
+
+  <!-- Panel 1 -->
+  <line x1="44" y1="126" x2="44" y2="340" stroke="#667085" stroke-width="1.2"/>
+  <line x1="44" y1="340" x2="296" y2="340" stroke="#667085" stroke-width="1.2"/>
+  <path d="M46,148 C150,154 250,190 290,334" fill="none" stroke="#b42318" stroke-width="3"/>
+  <text x="56" y="138" font-size="12" fill="#344054">Premium of an out-of-the-money option</text>
+  <text x="170" y="358" font-size="12" fill="#344054" text-anchor="middle">Time left to expiry shrinks</text>
+  <text x="150" y="250" font-size="12.5" font-weight="700" fill="#b42318" text-anchor="middle">The same hour costs</text>
+  <text x="150" y="267" font-size="12.5" font-weight="700" fill="#b42318" text-anchor="middle">more premium each time</text>
+  <text x="28" y="382" font-size="11.5" fill="#475467">Options far from spot lose value fastest.</text>
+
+  <!-- Panel 2 -->
+  <line x1="344" y1="236" x2="616" y2="236" stroke="#101828" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="344" y="256" font-size="12" font-weight="700" fill="#101828">Max Pain</text>
+  <circle cx="480" cy="196" r="9" fill="#101828"/>
+  <text x="480" y="176" font-size="12" font-weight="700" fill="#101828" text-anchor="middle">Spot</text>
+  <line x1="466" y1="196" x2="372" y2="226" stroke="#175cd3" stroke-width="5" stroke-linecap="round" marker-end="url(#ew-b)"/>
+  <line x1="494" y1="196" x2="580" y2="160" stroke="#b93815" stroke-width="5" stroke-linecap="round" marker-end="url(#ew-o)"/>
+  <text x="344" y="290" font-size="13.5" font-weight="700" fill="#175cd3">Desk pinning</text>
+  <text x="344" y="307" font-size="11.5" fill="#175cd3">back toward Max Pain</text>
+  <text x="612" y="126" font-size="13.5" font-weight="700" fill="#b93815" text-anchor="end">Trader directional bet</text>
+  <text x="612" y="142" font-size="11.5" fill="#b93815" text-anchor="end">away from Max Pain</text>
+  <text x="344" y="364" font-size="11.5" fill="#475467">If the pin holds, most options</text>
+  <text x="344" y="380" font-size="11.5" fill="#475467">expire worthless.</text>
+
+  <!-- Panel 3: settlement icon -->
+  <g transform="translate(796,196)">
+    <rect x="-44" y="-58" width="88" height="112" rx="8" fill="#ffffff" stroke="#344054" stroke-width="2"/>
+    <g stroke="#98a2b3" stroke-width="4" stroke-linecap="round"><line x1="-28" y1="-36" x2="28" y2="-36"/><line x1="-28" y1="-20" x2="28" y2="-20"/><line x1="-28" y1="-4" x2="6" y2="-4"/></g>
+    <circle cx="20" cy="30" r="22" fill="#079455"/>
+    <path d="M9,30 L17,38 L31,22" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="796" y="286" font-size="13.5" font-weight="700" fill="#101828" text-anchor="middle">Settlement</text>
+  <g font-size="11.5" fill="#475467"><text x="660" y="316">Weekly contracts are cash settled.</text><text x="660" y="334">Their open interest goes to zero.</text><text x="660" y="352">Positions for next week are opened.</text></g>
+
+  <!-- Note with clock -->
+  <rect x="250" y="412" width="460" height="48" rx="10" fill="#fff6ed" stroke="#f9dbaf" stroke-width="1.4"/>
+  <g transform="translate(284,436)"><circle r="14" fill="#ffffff" stroke="#b93815" stroke-width="2.5"/><path d="M0,-8 L0,0 L6,4" fill="none" stroke="#b93815" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="496" y="441" font-size="14.5" font-weight="700" fill="#b93815" text-anchor="middle">The window is short. Theta is the clock.</text>
+  <text x="480" y="486" font-size="11.5" fill="#667085" text-anchor="middle">Schematic for explanation only. Not market data. AION Analytics (India).</text>
+</svg>

@@ -2,7 +2,7 @@
 
 Published May 17, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/imi-macro-sector-api>
+Canonical version: <https://aionanalytics.in/research/notes/imi-macro-sector-api>
 
 ---
 Most headline tools flatten a market event into one label. Real Indian macro events move sectors through different channels simultaneously. This note explains the infrastructure gap and the AION approach to structured sector-impact mapping.

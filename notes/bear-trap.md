@@ -2,7 +2,7 @@
 
 Published May 26, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/bear-trap>
+Canonical version: <https://aionanalytics.in/research/notes/bear-trap>
 
 ---
 A bear trap is a price move below support that attracts panic sellers and short-sellers — and then reverses violently upward, squeezing those positions. It is the structural mirror of the bull trap: designed to harvest overconfident directional bets on weakness.

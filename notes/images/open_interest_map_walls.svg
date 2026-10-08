@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="oi-title oi-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="oi-title">Open interest by strike as a map of concentrated positions</title>
+  <desc id="oi-desc">A horizontal bar chart of open interest by strike. Put open interest extends to the left in red and Call open interest to the right in green. A line marks the current spot. The strike with the largest Call open interest above spot is marked as the Call Wall, and the strike with the largest Put open interest below spot is marked as the Put Wall. Arrows show desks buying futures as price nears the Call Wall and selling futures as price nears the Put Wall.</desc>
+  <defs>
+    <marker id="oi-g" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L16,7 L0,14 Z" fill="#067647"/></marker>
+    <marker id="oi-r" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L16,7 L0,14 Z" fill="#b42318"/></marker>
+  </defs>
+  <rect width="960" height="540" fill="#ffffff"/>
+  <rect x="12" y="12" width="936" height="490" rx="8" fill="#f7f9fc" stroke="#d5dbe5"/>
+  <text x="340" y="52" font-size="14" font-weight="700" fill="#b42318" text-anchor="middle">Put open interest</text>
+  <text x="480" y="52" font-size="13" font-weight="700" fill="#344054" text-anchor="middle">Strike</text>
+  <text x="620" y="52" font-size="14" font-weight="700" fill="#067647" text-anchor="middle">Call open interest</text>
+    <rect x="434" y="74" width="6" height="24" fill="#d92d20"/>
+  <rect x="520" y="74" width="70" height="24" fill="#079455"/>
+  <text x="480" y="91" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,250</text>
+  <rect x="150" y="105" width="660" height="34" rx="6" fill="#ecfdf3" stroke="#abefc6"/>
+  <rect x="430" y="110" width="10" height="24" fill="#d92d20"/>
+  <rect x="520" y="110" width="190" height="24" fill="#079455"/>
+  <text x="480" y="127" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,200</text>
+  <rect x="426" y="146" width="14" height="24" fill="#d92d20"/>
+  <rect x="520" y="146" width="110" height="24" fill="#079455"/>
+  <text x="480" y="163" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,150</text>
+  <rect x="418" y="182" width="22" height="24" fill="#d92d20"/>
+  <rect x="520" y="182" width="80" height="24" fill="#079455"/>
+  <text x="480" y="199" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,100</text>
+  <rect x="406" y="218" width="34" height="24" fill="#d92d20"/>
+  <rect x="520" y="218" width="50" height="24" fill="#079455"/>
+  <text x="480" y="235" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,050</text>
+  <rect x="380" y="290" width="60" height="24" fill="#d92d20"/>
+  <rect x="520" y="290" width="30" height="24" fill="#079455"/>
+  <text x="480" y="307" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">25,000</text>
+  <rect x="350" y="326" width="90" height="24" fill="#d92d20"/>
+  <rect x="520" y="326" width="20" height="24" fill="#079455"/>
+  <text x="480" y="343" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">24,950</text>
+  <rect x="320" y="362" width="120" height="24" fill="#d92d20"/>
+  <rect x="520" y="362" width="14" height="24" fill="#079455"/>
+  <text x="480" y="379" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">24,900</text>
+  <rect x="150" y="393" width="660" height="34" rx="6" fill="#fef3f2" stroke="#fecdca"/>
+  <rect x="240" y="398" width="200" height="24" fill="#d92d20"/>
+  <rect x="520" y="398" width="10" height="24" fill="#079455"/>
+  <text x="480" y="415" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">24,850</text>
+  <rect x="360" y="434" width="80" height="24" fill="#d92d20"/>
+  <rect x="520" y="434" width="8" height="24" fill="#079455"/>
+  <text x="480" y="451" font-size="13" fill="#101828" text-anchor="middle" font-weight="600">24,800</text>
+  <!-- spot -->
+  <line x1="150" y1="266" x2="810" y2="266" stroke="#101828" stroke-width="1.8" stroke-dasharray="6 4"/>
+  <rect x="424" y="254" width="112" height="24" rx="12" fill="#101828"/>
+  <text x="480" y="271" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Spot 25,025</text>
+  <!-- walls -->
+  <text x="724" y="127" font-size="14.5" font-weight="700" fill="#067647">Call Wall</text>
+  <text x="232" y="415" font-size="14.5" font-weight="700" fill="#b42318" text-anchor="end">Put Wall</text>
+  <!-- hedging arrows -->
+  <line x1="836" y1="260" x2="836" y2="140" stroke="#067647" stroke-width="3.5" marker-end="url(#oi-g)"/>
+  <g font-size="12.5" font-weight="700" fill="#067647"><text x="848" y="188">Desks buy</text><text x="848" y="205">futures as</text><text x="848" y="222">price nears</text><text x="848" y="239">the wall</text></g>
+  <line x1="124" y1="272" x2="124" y2="388" stroke="#b42318" stroke-width="3.5" marker-end="url(#oi-r)"/>
+  <g font-size="12.5" font-weight="700" fill="#b42318" text-anchor="end"><text x="112" y="312">Desks sell</text><text x="112" y="329">futures as</text><text x="112" y="346">price nears</text><text x="112" y="363">the wall</text></g>
+  <!-- note -->
+  <text x="480" y="486" font-size="13.5" font-weight="700" fill="#101828" text-anchor="middle">OI shows where positions are concentrated. Hedging shows how they will be defended.</text>
+  <text x="480" y="526" font-size="11.5" fill="#667085" text-anchor="middle">Schematic for explanation only. Not market data. AION Analytics (India).</text>
+</svg>

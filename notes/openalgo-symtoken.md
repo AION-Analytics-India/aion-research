@@ -2,7 +2,7 @@
 
 Published June 10, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/openalgo-symtoken>
+Canonical version: <https://aionanalytics.in/research/notes/openalgo-symtoken>
 
 ---
 OpenAlgo normalises order flow across 31 SEBI-registered brokers behind a single REST API. The key mechanism is elegant — and it contains a structural constraint that makes true multi-broker execution harder than it first appears.

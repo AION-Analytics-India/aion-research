@@ -2,7 +2,7 @@
 
 Published April 9, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/great-indian-illusion>
+Canonical version: <https://aionanalytics.in/research/notes/great-indian-illusion>
 
 ---
 GDP is rising. Markets are elevated. But wages are flat, jobs are scarce, credit is tight, and household stress is building. This note maps five structural cracks between the headline narrative and the lived reality of the Indian economy.

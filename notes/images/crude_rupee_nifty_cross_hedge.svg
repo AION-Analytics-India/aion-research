@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="ch-title ch-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="ch-title">The multi-asset cross-hedge: from crude oil to Nifty</title>
+  <desc id="ch-desc">A flowchart of four steps: crude rises, the rupee weakens, foreign institutional investors hedge by shorting Nifty futures, and Nifty falls. A side panel shows the USD/INR rate and the crude oil price rising together. A note reads: FIIs hedge their whole portfolio, not just Indian equities. Crude and rupee are the inputs. Nifty is the output.</desc>
+  <defs><marker id="ch-a" markerUnits="userSpaceOnUse" markerWidth="18" markerHeight="16" refX="13" refY="8" orient="auto"><path d="M0,0 L18,8 L0,16 Z" fill="#b93815"/></marker></defs>
+  <rect width="960" height="500" fill="#ffffff"/>
+  <rect x="12" y="12" width="936" height="450" rx="8" fill="#f7f9fc" stroke="#d5dbe5"/>
+    <rect x="40" y="44" width="420" height="66" rx="10" fill="#ffffff" stroke="#344054" stroke-width="1.6"/><text x="250" y="72" font-size="15" font-weight="700" fill="#101828" text-anchor="middle">1. Crude rises</text><text x="250" y="92" font-size="12" fill="#475467" text-anchor="middle">A geopolitical shock lifts the oil price</text>
+  <line x1="250" y1="112" x2="250" y2="140" stroke="#b93815" stroke-width="4.5" marker-end="url(#ch-a)"/>
+  <rect x="40" y="144" width="420" height="66" rx="10" fill="#ffffff" stroke="#344054" stroke-width="1.6"/><text x="250" y="172" font-size="15" font-weight="700" fill="#101828" text-anchor="middle">2. Rupee weakens</text><text x="250" y="192" font-size="12" fill="#475467" text-anchor="middle">The import bill grows and the trade deficit widens</text>
+  <line x1="250" y1="212" x2="250" y2="240" stroke="#b93815" stroke-width="4.5" marker-end="url(#ch-a)"/>
+  <rect x="40" y="244" width="420" height="66" rx="10" fill="#ffffff" stroke="#344054" stroke-width="1.6"/><text x="250" y="272" font-size="15" font-weight="700" fill="#101828" text-anchor="middle">3. FIIs hedge by shorting Nifty futures</text><text x="250" y="292" font-size="12" fill="#475467" text-anchor="middle">Their Indian holdings are losing value in dollars</text>
+  <line x1="250" y1="312" x2="250" y2="340" stroke="#b93815" stroke-width="4.5" marker-end="url(#ch-a)"/>
+  <rect x="40" y="344" width="420" height="66" rx="10" fill="#ffffff" stroke="#344054" stroke-width="1.6"/><text x="250" y="372" font-size="15" font-weight="700" fill="#101828" text-anchor="middle">4. Nifty falls</text><text x="250" y="392" font-size="12" fill="#475467" text-anchor="middle">The selling does not come from the domestic chain</text>
+  <!-- side panel -->
+  <rect x="510" y="44" width="410" height="250" rx="10" fill="#ffffff" stroke="#d5dbe5"/>
+  <text x="528" y="72" font-size="14" font-weight="700" fill="#101828">The two inputs, rising together</text>
+  <line x1="540" y1="92" x2="540" y2="262" stroke="#667085" stroke-width="1.2"/>
+  <line x1="540" y1="262" x2="896" y2="262" stroke="#667085" stroke-width="1.2"/>
+  <path d="M544,236 L570,228 L596,232 L622,214 L648,218 L674,196 L700,200 L726,176 L752,168 L778,146 L804,150 L830,124 L860,112" fill="none" stroke="#b93815" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M544,250 L570,246 L596,240 L622,242 L648,226 L674,222 L700,208 L726,204 L752,188 L778,180 L804,164 L830,158 L860,142" fill="none" stroke="#175cd3" stroke-width="3" stroke-linejoin="round"/>
+  <text x="866" y="108" font-size="12.5" font-weight="700" fill="#b93815" text-anchor="end">Crude oil</text>
+  <text x="892" y="176" font-size="12.5" font-weight="700" fill="#175cd3" text-anchor="end">USD/INR</text>
+  <text x="718" y="282" font-size="12" fill="#344054" text-anchor="middle">Time</text>
+  <!-- note -->
+  <rect x="510" y="314" width="410" height="96" rx="10" fill="#fff6ed" stroke="#f9dbaf" stroke-width="1.4"/>
+  <g font-size="13.5" font-weight="700" fill="#b93815"><text x="528" y="344">FIIs hedge their whole portfolio,</text><text x="528" y="363">not just Indian equities.</text></g>
+  <text x="528" y="390" font-size="13" fill="#101828">Crude and rupee are the inputs. Nifty is the output.</text>
+  <text x="480" y="486" font-size="11.5" fill="#667085" text-anchor="middle">Schematic for explanation only. Not market data. AION Analytics (India).</text>
+</svg>

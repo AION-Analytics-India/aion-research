@@ -5,7 +5,7 @@ ORCID: [0009-0000-7501-9230](https://orcid.org/0009-0000-7501-9230) &middot; [Go
 
 Research first, identify the structural gap, then build infrastructure against it.
 This repository is a durable archive of that written record. Canonical, always-current
-versions of the notes live at <https://dashboard.aiondashboard.site/research>.
+versions of the notes live at <https://aionanalytics.in/research>.
 
 ## Working papers
 
@@ -15,7 +15,7 @@ versions of the notes live at <https://dashboard.aiondashboard.site/research>.
 | 2026 | [Asymmetric Multipolarity: Financial, Industrial, Resource, and Strategic Power in the Post-Unipolar Global Order](https://doi.org/10.2139/ssrn.6449739) | `10.2139/ssrn.6449739` | [PDF](papers/2026-asymmetric-multipolarity.pdf) |
 | 2026 | [The Great Indian Illusion: Unpacking the Gap Between Growth Statistics and Citizen Well-Being](https://doi.org/10.2139/ssrn.6973958) | `10.2139/ssrn.6973958` | [PDF](papers/2026-great-indian-illusion.pdf) |
 | 2026 | [Signal Provenance in Retail Algorithmic Trading: An Architectural Gap in SEBI's 2026 Framework and Its General Form](https://doi.org/10.2139/ssrn.7118421) | `10.2139/ssrn.7118421` | [PDF](papers/2026-signal-provenance.pdf) |
-| 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7235801) | `SSRN 7235801 (under review)` | [PDF](papers/2026-the-uncodified-margin.pdf) |
+| 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://doi.org/10.2139/ssrn.7235801) | `10.2139/ssrn.7235801` | [PDF](papers/2026-the-uncodified-margin.pdf) |
 | 2026 | [The Signature Trap: Structural Gaps in Spyware Detection and the Limits of Indicator-Based Defense](https://doi.org/10.2139/ssrn.7503278) | `10.2139/ssrn.7503278` | [PDF](papers/2026-the-signature-trap.pdf) |
 
 BibTeX for all of the above: [`papers/citations.bib`](papers/citations.bib)
@@ -26,7 +26,7 @@ archived under that same DOI rather than a competing one, so citations stay unif
 ## Research notes
 
 Shorter pieces on market structure, quantitative method, and macro. Each is archived on
-Zenodo with its own DOI and links back to its canonical version on the dashboard.
+Zenodo with its own DOI and links back to its canonical version on the site.
 
 | Published | Note | DOI |
 |---|---|---|
@@ -41,7 +41,7 @@ Zenodo with its own DOI and links back to its canonical version on the dashboard
 | May 10, 2026 | [The 15-Minute Opening Window Rule: Market Structure Before Entry](notes/opening-window-rule.md) | [`10.5281/zenodo.21849135`](https://doi.org/10.5281/zenodo.21849135) |
 | May 26, 2026 | [The Bear Trap: How Panic Shorts Get Squeezed](notes/bear-trap.md) | [`10.5281/zenodo.21849092`](https://doi.org/10.5281/zenodo.21849092) |
 | May 26, 2026 | [The Bull Trap: How Breakout Buyers Get Harvested](notes/bull-trap.md) | [`10.5281/zenodo.21849100`](https://doi.org/10.5281/zenodo.21849100) |
-|  | [The Dollar-Metals Dynamic: A Factual Framework](notes/dollar-metals-dynamic.md) | [`10.5281/zenodo.21849105`](https://doi.org/10.5281/zenodo.21849105) |
+| January 2026 | [The Dollar-Metals Dynamic: A Factual Framework](notes/dollar-metals-dynamic.md) | [`10.5281/zenodo.21849105`](https://doi.org/10.5281/zenodo.21849105) |
 | June 22, 2026 | [The FII-DII Headline Is Lagging: What Actually Moved the Market on April 8](notes/fii-dii-headline-myth.md) | [`10.5281/zenodo.21849115`](https://doi.org/10.5281/zenodo.21849115) |
 | May 17, 2026 | [The Great Indian Illusion, Part 2: When the Framework Made a Call](notes/great-indian-illusion-gold.md) | [`10.5281/zenodo.21849119`](https://doi.org/10.5281/zenodo.21849119) |
 | April 9, 2026 | [The Great Indian Illusion: Five Structural Cracks](notes/great-indian-illusion.md) | [`10.5281/zenodo.21849121`](https://doi.org/10.5281/zenodo.21849121) |
@@ -49,6 +49,14 @@ Zenodo with its own DOI and links back to its canonical version on the dashboard
 | February 12, 2026 | [The Trading Car: A Minimalist Dashboard for Market Decisions](notes/trading-car.md) | [`10.5281/zenodo.21849147`](https://doi.org/10.5281/zenodo.21849147) |
 | May 5, 2026 | [Veritas: From Bachelier to Black-Scholes, and Why It Matters for Opening Bands](notes/veritas-bachelier-bsm.md) | [`10.5281/zenodo.21849151`](https://doi.org/10.5281/zenodo.21849151) |
 | March 5, 2026 | [Who Actually Lost in a Crash? Breaking the “₹16 Lakh Crore Wiped Out” Myth](notes/who-lost-in-crash.md) | [`10.5281/zenodo.21849153`](https://doi.org/10.5281/zenodo.21849153) |
+| October 8, 2026 | [Expiry Week Mechanics: Why Tuesday Is Not Like Friday](notes/expiry-week-mechanics.md) | [`10.5281/zenodo.23227415`](https://doi.org/10.5281/zenodo.23227415) |
+| October 8, 2026 | [Gamma Squeeze Mechanics: Why Dealers Accelerate Their Own Pain](notes/gamma-squeeze.md) | [`10.5281/zenodo.23226817`](https://doi.org/10.5281/zenodo.23226817) |
+| October 8, 2026 | [The Gamma Flip: When Dealers Stop Damping and Start Amplifying](notes/gamma-flip.md) | [`10.5281/zenodo.23227411`](https://doi.org/10.5281/zenodo.23227411) |
+| October 8, 2026 | [Open Interest Is Not a Forecast: It Is a Map of Trapped Positions](notes/open-interest-map.md) | [`10.5281/zenodo.23226823`](https://doi.org/10.5281/zenodo.23226823) |
+| October 8, 2026 | [The Multi-Asset Cross-Hedge: Why Crude Moves Nifty](notes/crude-rupee-nifty-cross-hedge.md) | [`10.5281/zenodo.23226829`](https://doi.org/10.5281/zenodo.23226829) |
+| October 8, 2026 | [The Pre-Open Auction: Why 9:00 to 9:15 AM Prices Lie](notes/pre-open-auction.md) | [`10.5281/zenodo.23227412`](https://doi.org/10.5281/zenodo.23227412) |
+| October 8, 2026 | [The VIX Crush: Why Your Option Loses Value Even When You Are Right](notes/vix-crush.md) | [`10.5281/zenodo.23226819`](https://doi.org/10.5281/zenodo.23226819) |
+| October 8, 2026 | [Why Max Pain Matters (And When It Doesn't)](notes/max-pain.md) | [`10.5281/zenodo.23226815`](https://doi.org/10.5281/zenodo.23226815) |
 
 ## About
 

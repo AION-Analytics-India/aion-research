@@ -2,7 +2,7 @@
 
 Published June 1, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/options-greeks-taylor-series>
+Canonical version: <https://aionanalytics.in/research/notes/options-greeks-taylor-series>
 
 ---
 An option position does not move linearly with the underlying. Delta, Gamma, Theta, and Vega are not arbitrary names — they are the terms of a Taylor expansion applied to the option pricing function. Understanding this derivation explains every unexpected option move and every model-vs-reality divergence you will encounter as an F&O participant.

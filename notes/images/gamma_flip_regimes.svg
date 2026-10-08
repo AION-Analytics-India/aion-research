@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="gf-title gf-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title id="gf-title">The gamma flip: the price at which dealer hedging changes from damping to amplifying</title>
+  <desc id="gf-desc">Two panels sharing a price axis. A horizontal line marks the gamma flip. In the left panel, below the line arrows point inward and price moves in small, fading swings; above the line arrows point outward and the swings grow as price accelerates. In the right panel a curve of dealer gamma exposure runs from positive below the flip to negative above it, crossing zero at the flip. A note reads: below the flip, dealers dampen; above, they amplify.</desc>
+  <defs>
+    <marker id="gf-b" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L16,7 L0,14 Z" fill="#175cd3"/></marker>
+    <marker id="gf-o" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L16,7 L0,14 Z" fill="#b93815"/></marker>
+  </defs>
+  <rect width="960" height="520" fill="#ffffff"/>
+  <rect x="12" y="12" width="568" height="424" rx="8" fill="#f7f9fc" stroke="#d5dbe5"/>
+  <rect x="592" y="12" width="356" height="424" rx="8" fill="#f7f9fc" stroke="#d5dbe5"/>
+  <text x="28" y="40" font-size="15" font-weight="700" fill="#101828">Price and the two regimes</text>
+  <text x="608" y="40" font-size="15" font-weight="700" fill="#101828">Dealer gamma exposure</text>
+
+  <!-- regimes -->
+  <rect x="40" y="62" width="524" height="178" fill="#fff6ed"/>
+  <rect x="40" y="240" width="524" height="178" fill="#eff8ff"/>
+  <line x1="40" y1="62" x2="40" y2="418" stroke="#667085" stroke-width="1.2"/>
+  <text transform="translate(28,240) rotate(-90)" font-size="12" fill="#344054" text-anchor="middle" font-weight="700">Price</text>
+  <path d="M50.0,400.0 L54.6,405.2 L59.2,406.9 L63.8,403.9 L68.4,396.6 L73.0,387.2 L77.6,378.3 L82.2,372.2 L86.8,369.9 L91.4,370.9 L96.0,373.7 L100.6,376.1 L105.2,376.4 L109.8,373.7 L114.4,368.2 L119.0,361.4 L123.6,354.7 L128.2,349.8 L132.8,347.2 L137.4,346.8 L142.0,347.6 L146.6,348.3 L151.2,347.6 L155.8,345.0 L160.4,340.7 L165.0,335.4 L169.6,330.2 L174.2,326.0 L178.8,323.4 L183.4,322.1 L188.0,321.6 L192.6,321.1 L197.2,319.8 L201.8,317.3 L206.4,313.6 L211.0,309.3 L215.6,305.1 L220.2,301.4 L224.8,298.8 L229.4,297.0 L234.0,295.7 L238.6,294.4 L243.2,292.7 L247.8,290.2 L252.4,286.9 L257.0,283.3 L261.6,279.6 L266.2,276.3 L270.8,273.6 L275.4,271.5 L280.0,269.8 L284.6,268.0 L289.2,266.0 L293.8,263.4 L298.4,260.5 L303.0,257.2 L307.6,253.9 L312.2,250.9 L316.8,248.2 L321.4,245.9 L326.0,243.8 L330.6,242.8 L335.2,242.0 L339.8,240.3 L344.4,236.6 L349.0,230.5 L353.6,222.0 L358.2,212.6 L362.8,203.8 L367.4,197.5 L372.0,195.0 L376.6,196.6 L381.2,201.2 L385.8,206.7 L390.4,210.6 L395.0,210.3 L399.6,204.4 L404.2,193.0 L408.8,177.9 L413.4,161.9 L418.0,148.6 L422.6,141.2 L427.2,141.1 L431.8,148.0 L436.4,159.4 L441.0,171.4 L445.6,179.5 L450.2,180.2 L454.8,171.7 L459.4,154.9 L464.0,132.8 L468.6,110.5 L473.2,93.1 L477.8,85.2 L482.4,88.8 L487.0,101.2 L491.6,118.1 L496.2,134.0 L500.8,143.5 L505.4,143.2 L510.0,132.1 L514.6,112.2 L519.2,88.1 L523.8,70.0 L528.4,70.0" fill="none" stroke="#344054" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="40" y1="240" x2="564" y2="240" stroke="#101828" stroke-width="1.8" stroke-dasharray="6 4"/>
+  <rect x="52" y="228" width="98" height="24" rx="12" fill="#101828"/>
+  <text x="101" y="245" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle">Gamma flip</text>
+  <!-- above: outward arrows -->
+  <line x1="150" y1="148" x2="150" y2="96" stroke="#b93815" stroke-width="3.5" marker-end="url(#gf-o)"/>
+  <line x1="150" y1="160" x2="150" y2="212" stroke="#b93815" stroke-width="3.5" marker-end="url(#gf-o)"/>
+  <text x="170" y="150" font-size="13.5" font-weight="700" fill="#b93815">Short gamma</text>
+  <text x="170" y="168" font-size="12" fill="#b93815">Hedging adds to each move</text>
+  <!-- below: inward arrows -->
+  <line x1="430" y1="286" x2="430" y2="322" stroke="#175cd3" stroke-width="3.5" marker-end="url(#gf-b)"/>
+  <line x1="430" y1="388" x2="430" y2="352" stroke="#175cd3" stroke-width="3.5" marker-end="url(#gf-b)"/>
+  <text x="418" y="332" font-size="13.5" font-weight="700" fill="#175cd3" text-anchor="end">Long gamma</text>
+  <text x="418" y="350" font-size="12" fill="#175cd3" text-anchor="end">Hedging leans against each move</text>
+
+  <!-- right panel: exposure curve on the same price axis -->
+  <rect x="620" y="62" width="150" height="178" fill="#fff6ed"/>
+  <rect x="770" y="240" width="150" height="178" fill="#eff8ff"/>
+  <line x1="770" y1="62" x2="770" y2="418" stroke="#667085" stroke-width="1.2"/>
+  <line x1="620" y1="240" x2="920" y2="240" stroke="#101828" stroke-width="1.8" stroke-dasharray="6 4"/>
+  <path d="M900,414 C886,330 820,276 770,240 C720,204 654,150 640,66" fill="none" stroke="#101828" stroke-width="3"/>
+  <circle cx="770" cy="240" r="6" fill="#101828"/>
+  <text x="782" y="232" font-size="12.5" font-weight="700" fill="#101828">Zero at the flip</text>
+  <text x="868" y="264" font-size="13" font-weight="700" fill="#175cd3" text-anchor="middle">Positive</text>
+  <text x="868" y="281" font-size="11.5" fill="#175cd3" text-anchor="middle">long gamma</text>
+  <text x="668" y="206" font-size="13" font-weight="700" fill="#b93815" text-anchor="middle">Negative</text>
+  <text x="668" y="223" font-size="11.5" fill="#b93815" text-anchor="middle">short gamma</text>
+  <text x="640" y="432" font-size="11.5" fill="#344054" text-anchor="middle">Short</text><text x="770" y="432" font-size="11.5" fill="#344054" text-anchor="middle">0</text><text x="900" y="432" font-size="11.5" fill="#344054" text-anchor="middle">Long</text>
+
+  <rect x="230" y="446" width="500" height="38" rx="10" fill="#fff6ed" stroke="#f9dbaf" stroke-width="1.4"/>
+  <text x="480" y="470" font-size="14" font-weight="700" fill="#b93815" text-anchor="middle">Below the flip, dealers dampen. Above, they amplify.</text>
+  <text x="480" y="506" font-size="11.5" fill="#667085" text-anchor="middle">Schematic for explanation only. The side that amplifies depends on dealer positioning. Not market data. AION Analytics (India).</text>
+</svg>

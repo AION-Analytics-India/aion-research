@@ -2,7 +2,7 @@
 
 Published March 5, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/who-lost-in-crash>
+Canonical version: <https://aionanalytics.in/research/notes/who-lost-in-crash>
 
 ---
 Every market crash produces the same headline: trillions of rupees wiped out, wealth destroyed. The framing is wrong. Money does not vanish in a crash — it changes hands. And while it does, the broker, the exchange, and the government collect their cut on every transaction, in both directions, regardless of who won or lost. The house always collects.
@@ -10,7 +10,7 @@ Every market crash produces the same headline: trillions of rupees wiped out, we
 <div class="arc-note">
 
 **Macro arc:** This note is part of a connected set examining structural cracks in India’s growth narrative and the metals/sovereignty implications that follow.  
-Arc: [Great Indian Illusion](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://dashboard.aiondashboard.site/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://dashboard.aiondashboard.site/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://dashboard.aiondashboard.site/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion-gold)
+Arc: [Great Indian Illusion](https://aionanalytics.in/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://aionanalytics.in/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://aionanalytics.in/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://aionanalytics.in/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://aionanalytics.in/research/notes/great-indian-illusion-gold)
 
 </div>
 

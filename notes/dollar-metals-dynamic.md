@@ -1,8 +1,8 @@
 # The Dollar-Metals Dynamic: A Factual Framework
 
-AION Analytics (India) · Lokesh Gupta
+Published January 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/dollar-metals-dynamic>
+Canonical version: <https://aionanalytics.in/research/notes/dollar-metals-dynamic>
 
 ---
 The historical inverse relationship between the US Dollar Index and precious metals is one of the most studied correlations in global finance. In early 2026, that correlation reached -96% — a level observed only seven times since 1990. This note explains the mechanics, the conditions that produce extreme readings, and what historical patterns suggest follows.
@@ -10,7 +10,7 @@ The historical inverse relationship between the US Dollar Index and precious met
 <div class="arc-note">
 
 **Macro arc:** This note is part of a connected set examining the structural cracks beneath India's growth narrative and the metals/sovereignty implications that follow.  
-Arc: [Great Indian Illusion](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://dashboard.aiondashboard.site/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://dashboard.aiondashboard.site/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://dashboard.aiondashboard.site/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://dashboard.aiondashboard.site/research/notes/great-indian-illusion-gold)
+Arc: [Great Indian Illusion](https://aionanalytics.in/research/notes/great-indian-illusion) → [Who Lost in a Crash](https://aionanalytics.in/research/notes/who-lost-in-crash) → [Dollar-Metals Dynamic](https://aionanalytics.in/research/notes/dollar-metals-dynamic) → [Gold-Silver Ratio](https://aionanalytics.in/research/notes/gold-silver-ratio-hypothesis) → [GII Part 2: Gold](https://aionanalytics.in/research/notes/great-indian-illusion-gold)
 
 </div>
 

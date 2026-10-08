@@ -2,7 +2,7 @@
 
 AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/systemic-risk-graph-theory>
+Canonical version: <https://aionanalytics.in/research/notes/systemic-risk-graph-theory>
 
 ---
 Financial risk is not additive — it is networked. Graph theory explains why locally sound institutions fail together: as connectivity and leverage increase across the financial system, the probability of systemic failure rises non-linearly.

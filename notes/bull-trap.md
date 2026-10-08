@@ -2,7 +2,7 @@
 
 Published May 26, 2026 · AION Analytics (India) · Lokesh Gupta
 
-Canonical version: <https://dashboard.aiondashboard.site/research/notes/bull-trap>
+Canonical version: <https://aionanalytics.in/research/notes/bull-trap>
 
 ---
 A bull trap is a price move above resistance that attracts breakout buyers — and then reverses, leaving those buyers with losses. The pattern is structural, not random: it exploits the confirmation-bias tendency to treat price action above a key level as validation of bullish momentum.
