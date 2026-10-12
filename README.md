@@ -17,6 +17,7 @@ versions of the notes live at <https://aionanalytics.in/research>.
 | 2026 | [Signal Provenance in Retail Algorithmic Trading: An Architectural Gap in SEBI's 2026 Framework and Its General Form](https://doi.org/10.2139/ssrn.7118421) | `10.2139/ssrn.7118421` | [PDF](papers/2026-signal-provenance.pdf) |
 | 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://doi.org/10.2139/ssrn.7235801) | `10.2139/ssrn.7235801` | [PDF](papers/2026-the-uncodified-margin.pdf) |
 | 2026 | [The Signature Trap: Structural Gaps in Spyware Detection and the Limits of Indicator-Based Defense](https://doi.org/10.2139/ssrn.7503278) | `10.2139/ssrn.7503278` | [PDF](papers/2026-the-signature-trap.pdf) |
+| 2026 | [Contextual Intelligence: A Causal Layer for Country-Specific Decisions](https://doi.org/10.2139/ssrn.7596079) | `10.2139/ssrn.7596079` | [PDF](papers/2026-contextual-intelligence.pdf) |
 
 BibTeX for all of the above: [`papers/citations.bib`](papers/citations.bib)
 
