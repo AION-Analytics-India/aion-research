@@ -1,0 +1,25 @@
+{
+  "cff-version": "1.2.0",
+  "message": "For a specific finding, cite the individual paper DOI. Use this citation when referring to the archive as a whole.",
+  "title": "AION Research",
+  "authors": [
+    {
+      "family-names": "Gupta",
+      "given-names": "Lokesh",
+      "orcid": "https://orcid.org/0009-0000-7501-9230"
+    }
+  ],
+  "url": "https://github.com/AION-Analytics-India/aion-research",
+  "preferred-citation": {
+    "type": "generic",
+    "title": "AION Research",
+    "authors": [
+      {
+        "family-names": "Gupta",
+        "given-names": "Lokesh",
+        "orcid": "https://orcid.org/0009-0000-7501-9230"
+      }
+    ],
+    "url": "https://github.com/AION-Analytics-India/aion-research"
+  }
+}
