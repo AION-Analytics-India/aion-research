@@ -1,11 +1,45 @@
 # AION Research
 
-Working papers and research notes by **Lokesh Gupta**, founder of AION Analytics (India).
-ORCID: [0009-0000-7501-9230](https://orcid.org/0009-0000-7501-9230) &middot; [Google Scholar](https://scholar.google.com/citations?user=QuCFm9YAAAAJ)
+Research papers and notes by Lokesh Gupta on market microstructure, economic measurement and the limits of automated systems. [Research catalogue](https://aionanalytics.in/research) · [ORCID](https://orcid.org/0009-0000-7501-9230)
 
-Research first, identify the structural gap, then build infrastructure against it.
-This repository is a durable archive of that written record. Canonical, always-current
-versions of the notes live at <https://aionanalytics.in/research>.
+## Three findings to examine
+
+- **The day after expiry:** the tested NIFTY spot-index data do not support a mechanical morning rise followed by a fade. The apparent opening effect in the Tuesday-expiry period was not separable from the weekday in the reported test. This does not establish what options desks did. [Note and limitations](https://aionanalytics.in/research/notes/day-after-expiry-test) · [Paper and DOI](https://doi.org/10.5281/zenodo.23560717)
+- **Quarter-end window dressing:** the reported NIFTY sample does not show the claimed quarter-end rise followed by a next-day fall. The index test cannot rule out effects in individual stocks. [Note and limitations](https://aionanalytics.in/research/notes/quarter-end-window-dressing-test) · [Paper and DOI](https://doi.org/10.5281/zenodo.23560724)
+- **One-minute candles:** the tested spot-index returns do not show the short-horizon reversal pattern examined in the note. The result does not cover futures, options, every indicator or other periods. [Note and limitations](https://aionanalytics.in/research/notes/one-minute-candles-test) · [Paper and DOI](https://doi.org/10.5281/zenodo.23560740)
+
+## Public evidence and limitations
+
+Read each paper's stated inputs, findings and limitations, and use the [public validation record](https://aionanalytics.in/veritas/validation) where applicable. The linked tests describe the scope of their reported evidence; a result for one instrument or period does not establish behavior outside that sample. [Reported test scope](https://aionanalytics.in/research/notes/day-after-expiry-test)
+
+Published findings and citations do not grant access to proprietary methods or restricted input data. Independent scrutiny can use the approved public records; disclosure or reconstruction of private implementations is not a condition of contributing. Observe the [publication rights](https://github.com/AION-Analytics-India/aion-research#licence) and [contribution guidance](https://github.com/AION-Analytics-India/aion-research/blob/main/CONTRIBUTING.md).
+
+## Cite the work
+
+For a finding, cite its individual paper or note using the DOI above. Working-paper citations are collected in the [BibTeX bibliography](https://github.com/AION-Analytics-India/aion-research/blob/main/papers/citations.bib). When referring to the archive as a whole, cite [AION Research by Lokesh Gupta](https://github.com/AION-Analytics-India/aion-research), record the commit or access date, and keep it distinct from an individual publication.
+
+## Report an error or collaborate
+
+Use the repository's [contribution process](https://github.com/AION-Analytics-India/aion-research/blob/main/CONTRIBUTING.md) to report an error or propose a correction. Include the publication, expected result and steps or public source that support the report; omit credentials and restricted datasets.
+
+## Publication archive
+
+Canonical versions of the notes are maintained in the [live research catalogue](https://aionanalytics.in/research). The working papers and archived notes follow below.
+
+## Additional published notes
+
+These entries link existing public publications; no new manuscript or identifier is created. Dates and titles follow the linked DOI records.
+
+| Publication date | Note | Existing DOI |
+|---|---|---|
+| 2026-10-22 | [What the Consolidated Account Statement Shows, and What It Cannot](https://aionanalytics.in/research/notes/consolidated-account-statement) | [10.5281/zenodo.23560711](https://doi.org/10.5281/zenodo.23560711) |
+| 2026-10-22 | [The Day After Expiry: Testing the Morning Rally and Fade on NIFTY](https://aionanalytics.in/research/notes/day-after-expiry-test) | [10.5281/zenodo.23560717](https://doi.org/10.5281/zenodo.23560717) |
+| 2026-10-22 | [Quarter-End Window Dressing: Testing the Claim on NIFTY](https://aionanalytics.in/research/notes/quarter-end-window-dressing-test) | [10.5281/zenodo.23560724](https://doi.org/10.5281/zenodo.23560724) |
+| 2026-10-22 | [One Scoreboard, Two Books: How a Combined P&L Distorts Decisions](https://aionanalytics.in/research/notes/one-scoreboard-two-books) | [10.5281/zenodo.23560746](https://doi.org/10.5281/zenodo.23560746) |
+| 2026-10-22 | [Are One-Minute NIFTY Candles Mostly Noise? A Variance Ratio Test](https://aionanalytics.in/research/notes/one-minute-candles-test) | [10.5281/zenodo.23560740](https://doi.org/10.5281/zenodo.23560740) |
+| 2026-10-08 | [When F&O Is Not for You](https://aionanalytics.in/research/notes/when-fno-is-not-for-you) | [10.5281/zenodo.23227975](https://doi.org/10.5281/zenodo.23227975) |
+| 2026-10-08 | [The OI-to-Price Divergence: When Open Interest and Spot Disagree](https://aionanalytics.in/research/notes/oi-price-divergence) | [10.5281/zenodo.23236089](https://doi.org/10.5281/zenodo.23236089) |
+| 2026-10-08 | [The Closing Auction: How the Close Is Set Since August 2026](https://aionanalytics.in/research/notes/closing-auction) | [10.5281/zenodo.23227971](https://doi.org/10.5281/zenodo.23227971) |
 
 ## Working papers
 
