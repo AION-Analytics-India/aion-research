@@ -18,6 +18,7 @@ versions of the notes live at <https://aionanalytics.in/research>.
 | 2026 | [The Uncodified Margin: Human Relational Intelligence as a Structural Complement to Algorithmic Systems in Five Emerging Markets](https://doi.org/10.2139/ssrn.7235801) | `10.2139/ssrn.7235801` | [PDF](papers/2026-the-uncodified-margin.pdf) |
 | 2026 | [The Signature Trap: Structural Gaps in Spyware Detection and the Limits of Indicator-Based Defense](https://doi.org/10.2139/ssrn.7503278) | `10.2139/ssrn.7503278` | [PDF](papers/2026-the-signature-trap.pdf) |
 | 2026 | [Contextual Intelligence: A Causal Layer for Country-Specific Decisions](https://doi.org/10.2139/ssrn.7596079) | `10.2139/ssrn.7596079` | [PDF](papers/2026-contextual-intelligence.pdf) |
+| 2026 | [Signal Provenance, Part 2. The Structural Harvest: Why SEBI's Retail Protection Measures Do Not Reach the Losses in Indian Index Derivatives](https://doi.org/10.2139/ssrn.7663940) | `10.2139/ssrn.7663940` | [PDF](papers/2026-structural-harvest.pdf) |
 
 BibTeX for all of the above: [`papers/citations.bib`](papers/citations.bib)
 
